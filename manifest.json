@@ -1,8 +1,0 @@
-{
-  "name": "Scripts",
-  "description": "Userscripts + market public: publică, caută, instalează și apreciază scripturi.",
-  "authors": [{ "name": "becali" }],
-  "main": "index.js",
-  "hash": "v2",
-  "vendetta": { "icon": "ic_edit_24px" }
-}
