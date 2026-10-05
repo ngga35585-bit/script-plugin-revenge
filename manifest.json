@@ -1,6 +1,6 @@
 {
   "name": "Scripts",
-  "description": "Userscripts + public market: publish, search, install and like scripts.",
+  "description": "Userscripts + public market: publish, search, install and like scripts & more.",
   "authors": [{ "name": "becali.18m" }],
   "main": "index.js",
   "hash": "v3",
