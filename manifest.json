@@ -1,0 +1,8 @@
+{
+  "name": "Scripts",
+  "description": "Userscripts + public market with comments, collaborators, settings and a terminal. All done by Becali.18m",
+  "authors": [{ "name": "becali" }],
+  "main": "index.js",
+  "hash": "v4",
+  "vendetta": { "icon": "ic_edit_24px" }
+}
