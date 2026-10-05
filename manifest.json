@@ -1,8 +1,0 @@
-{
-  "name": "Scripts",
-  "description": "Userscripts + public market: publish, search, install and like scripts & more.",
-  "authors": [{ "name": "becali.18m" }],
-  "main": "index.js",
-  "hash": "v3",
-  "vendetta": { "icon": "ic_edit_24px" }
-}
